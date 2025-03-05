@@ -10,7 +10,7 @@ html, body {
       align-items: center;
       font-family: Arial, sans-serif;
     } 
-    
+
     .container {
       display: flex;
       align-items: center;
@@ -31,7 +31,5 @@ html, body {
         padding-bottom: 5px;
       }
       
-      .task-list li.completed {
-        text-decoration: line-through;
-      }
+    
       
