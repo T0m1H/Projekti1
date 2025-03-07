@@ -8,10 +8,6 @@ How was the workload divided
 I made this project by myself.
 
 
-Screenshots
-![alt text](ToDoLista.jpg)
-
-
 Technologies
 I used in this project HTML, CSS and Javascript. HTML and CSS was familiar to me before from developing websites course. In this course we are studying Javascript, so it is new thing to me to learn.
 
